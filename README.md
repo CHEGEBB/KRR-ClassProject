@@ -1,7 +1,7 @@
 # 🍅 Tomato Disease Diagnosis with CLIPS and Prolog 🌱🔍
 This repository contains two powerful tools for diagnosing tomato plant diseases: one using CLIPS and another using Prolog.<br>
 Choose your preferred tool or experiment with both to enhance your understanding of tomato diseases.<br>
-# CLIPS - C Language Integrated Production System🚦
+# 1. CLIPS - C Language Integrated Production System🚦
 ## Prerequisites
 CLIPS Installation: Ensure that CLIPS is installed on your system.
 # Getting Started
@@ -30,7 +30,7 @@ To find symptoms for a specific tomato plant (e.g., "tomato-plant-1"):
 ```bash
 (find-symptoms-for-disease tomato-plant-1)
 ```
-# Prolog📚
+# 2. Prolog📚
 ## prerequisites
 Prolog Installation: Ensure that you have a Prolog environment installed on your machine.
 
