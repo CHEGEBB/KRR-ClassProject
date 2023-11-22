@@ -47,7 +47,7 @@ Below is an example of how to query:
 ```
 
 Author: CHEGEBB 👨‍💻
-GitHub: CHEGEBB 🚀
+GitHub: https://github.com/CHEGEBB/ 🚀
 
 
 
